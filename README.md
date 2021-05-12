@@ -1,4 +1,4 @@
-# Cancer Classification
+# Breast Cancer Diagnosis Classification
 
 ![Screen Shot 2021-05-12 at 13 30 16](https://user-images.githubusercontent.com/71969715/117960908-2e30a080-b326-11eb-92e5-62c870669aac.png)
 
